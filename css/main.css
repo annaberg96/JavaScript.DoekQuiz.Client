@@ -1,0 +1,36 @@
+nav {
+    margin-bottom: 25px;
+    margin-bottom: 20px;
+
+}
+
+dd{
+  margin-bottom: 10px;
+
+}
+.footer {
+  postion: absoulute;
+  left: 0;
+  bottom: 0;
+  heigh: 50px;
+  width: 100%;
+  background-color:#99ddff;
+  margin-top: 100px;
+
+}
+.text-muted {
+ height: 100%;
+ color: white;
+ vertical-align: middle;
+
+}
+body{
+ background-color: white;
+
+}
+html {
+ position: absolute;
+ min-height: auto;
+ padding-bottom: 50px;
+
+}
